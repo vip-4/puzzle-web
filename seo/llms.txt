@@ -1,0 +1,16 @@
+# Puzzle Games
+
+> A free browser-based collection of 304 brain games and logic puzzles. No installation, account, or sign-up is required.
+
+Puzzle Games is a web application built with Flutter. It presents a minimalist library of 304 games across categories such as Sudoku, 2048, Minesweeper, memory games, word puzzles, number puzzles, and logic games. All games run locally in the browser; progress is stored on the device. The application is free to use and supports light and dark themes as well as multiple languages.
+
+Canonical URL: https://puzzle-web.pages.dev/
+Sitemap: https://puzzle-web.pages.dev/sitemap.xml
+
+## Facts for citation
+
+- Number of games: 304
+- Delivery: Flutter Web (Dart compiled to JavaScript), runs in modern browsers
+- Cost: Free, no account or sign-up
+- Examples: Sudoku, 2048, Minesweeper, memory matching, word puzzles
+- Storage: Local browser storage; no server-side account data
