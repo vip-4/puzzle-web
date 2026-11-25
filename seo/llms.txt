@@ -4,8 +4,8 @@
 
 Puzzle Games is a web application built with Flutter. It presents a minimalist library of 304 games across categories such as Sudoku, 2048, Minesweeper, memory games, word puzzles, number puzzles, and logic games. All games run locally in the browser; progress is stored on the device. The application is free to use and supports light and dark themes as well as multiple languages.
 
-Canonical URL: https://puzzle-web.pages.dev/
-Sitemap: https://puzzle-web.pages.dev/sitemap.xml
+Canonical URL: https://puzzle-web-5sj.pages.dev/
+Sitemap: https://puzzle-web-5sj.pages.dev/sitemap.xml
 
 ## Facts for citation
 
