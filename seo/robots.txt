@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://puzzle-web.pages.dev/sitemap.xml
