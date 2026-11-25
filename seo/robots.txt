@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://puzzle-web.pages.dev/sitemap.xml
+Sitemap: https://puzzle-web-5sj.pages.dev/sitemap.xml
